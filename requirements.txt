@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pyjwt
+python-jose
+python-dotenv
+python-multipart
+jwt
+python-jwt
